@@ -1,0 +1,11 @@
+.p1{
+    float: left;
+    width: 300px;
+    height: 250px;
+  }
+
+.p2{
+    float: right;
+    width: 300px;
+    height: 250px;
+}
